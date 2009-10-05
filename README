@@ -1,0 +1,8 @@
+Gedit Word Completion Plugin
+
+This plugin uses the new GtkSourceCompletionWords provider supplied with the new
+GtkSourceCompletion framework to provide a completion provider which can
+complete from words in all open buffers.
+
+You will need to have gedit, gtksourceview and pygtksourceview built from git
+for this plugin to work.
